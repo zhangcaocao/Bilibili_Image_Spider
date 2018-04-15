@@ -1,0 +1,1019 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Get",
+				"get_source"
+			],
+			[
+				"I",
+				"Image_url\tparam"
+			],
+			[
+				"ran",
+				"random\tmodule"
+			],
+			[
+				"get",
+				"get_source\tfunction"
+			],
+			[
+				"he",
+				"headers"
+			],
+			[
+				"ra",
+				"random\tmodule"
+			],
+			[
+				"Image",
+				"Image_url"
+			],
+			[
+				"page",
+				"page_nums\tparam"
+			],
+			[
+				"page_",
+				"page_num"
+			],
+			[
+				"U",
+				"UAs\tstatement"
+			],
+			[
+				"us",
+				"user"
+			],
+			[
+				"User",
+				"User-Agent"
+			],
+			[
+				"sta",
+				"start_html\tstatement"
+			],
+			[
+				"in",
+				"input\tfunction"
+			],
+			[
+				"pa",
+				"payload"
+			],
+			[
+				"st",
+				"start_html\tstatement"
+			],
+			[
+				"sca",
+				"scatter\tfunction"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"T",
+				"TotalBsmtSF"
+			],
+			[
+				"To",
+				"TotalBsmtSF"
+			],
+			[
+				"8",
+				"800000"
+			],
+			[
+				"G",
+				"GrLivArea"
+			],
+			[
+				"va",
+				"var"
+			],
+			[
+				"sal",
+				"SalePrice_scaled\tstatement"
+			],
+			[
+				"mi",
+				"missing_data\tstatement"
+			],
+			[
+				"per",
+				"precent\tstatement"
+			],
+			[
+				"ta",
+				"total\tstatement"
+			],
+			[
+				"as",
+				"ascending"
+			],
+			[
+				"v",
+				"vmax\tparam"
+			],
+			[
+				"corr",
+				"corrmat\tstatement"
+			],
+			[
+				"y",
+				"ymax"
+			],
+			[
+				"S",
+				"SalePrice"
+			],
+			[
+				"fig",
+				"figsize"
+			],
+			[
+				"ax",
+				"axis"
+			],
+			[
+				"c",
+				"concat\tfunction"
+			],
+			[
+				"fi",
+				"figure\tfunction"
+			],
+			[
+				"pl",
+				"plt\tmodule"
+			],
+			[
+				"sh",
+				"_show_cmap\tfunction"
+			],
+			[
+				"rea",
+				"read_csv\tfunction"
+			],
+			[
+				"ma",
+				"matplotlib"
+			],
+			[
+				"me",
+				"melbourne_data\tstatement"
+			],
+			[
+				"ME",
+				"memoryview\tclass"
+			],
+			[
+				"se",
+				"self\tparam"
+			],
+			[
+				"Poin",
+				"Points_List_\tstatement"
+			],
+			[
+				"x",
+				"x_list\tstatement"
+			],
+			[
+				"sef",
+				"self\tparam"
+			],
+			[
+				"da",
+				"data_list\tstatement"
+			],
+			[
+				"D",
+				"Drew_Bezier\tclass"
+			],
+			[
+				"port",
+				"port_open\tfunction"
+			],
+			[
+				"wri",
+				"write\tfunction"
+			],
+			[
+				"By",
+				"By_\tstatement"
+			],
+			[
+				"Bx",
+				"Bx_\tstatement"
+			],
+			[
+				"src",
+				"src_Gray_Image\tstatement"
+			],
+			[
+				"Po",
+				"Points_List_\tstatement"
+			],
+			[
+				"for",
+				"format\tfunction"
+			],
+			[
+				"Get_",
+				"Get_Point"
+			],
+			[
+				"fo",
+				"format"
+			],
+			[
+				"ev",
+				"event"
+			],
+			[
+				"re",
+				"return\tkeyword"
+			],
+			[
+				"col",
+				"colors\tparam"
+			],
+			[
+				"p_",
+				"p_move"
+			],
+			[
+				"sen",
+				"sensor_right"
+			],
+			[
+				"f",
+				"format\tfunction"
+			],
+			[
+				"V",
+				"Vl\tstatement"
+			],
+			[
+				"V1",
+				"V1_list\tstatement"
+			],
+			[
+				"w",
+				"W\tstatement"
+			],
+			[
+				"W",
+				"W_list\tstatement"
+			],
+			[
+				"COLOHSV",
+				"COLOR_BGR2HSV\tinstance"
+			],
+			[
+				"r",
+				"read\tfunction"
+			],
+			[
+				"COLOBG2H",
+				"COLOR_BGR2HSV\tinstance"
+			],
+			[
+				"cv",
+				"cvtColor\tfunction"
+			],
+			[
+				"im",
+				"img2\tstatement"
+			],
+			[
+				"no",
+				"nothing\tfunction"
+			],
+			[
+				"createT",
+				"createTrackbar\tfunction"
+			],
+			[
+				"wa",
+				"waitKey\tfunction"
+			],
+			[
+				"E",
+				"EVENT_LBUTTONDOWN\tinstance"
+			],
+			[
+				"fl",
+				"flags"
+			],
+			[
+				"ca",
+				"cap\tstatement"
+			],
+			[
+				"Us",
+				"Using_Matplotlib\tfunction"
+			],
+			[
+				"des",
+				"destroyAllWindows\tfunction"
+			],
+			[
+				"l",
+				"len\tfunction"
+			],
+			[
+				"B",
+				"By\tstatement"
+			],
+			[
+				"po",
+				"Pointx\tstatement"
+			],
+			[
+				"H",
+				"Hdata\tstatement"
+			],
+			[
+				"C",
+				"Core_relation\tfunction"
+			],
+			[
+				"Ma",
+				"max\tfunction"
+			],
+			[
+				"exs",
+				"expr_sub"
+			],
+			[
+				"res_",
+				"res_2\tstatement"
+			],
+			[
+				"res",
+				"res_1"
+			],
+			[
+				"exp",
+				"expr\tstatement"
+			],
+			[
+				"or",
+				"order\tparam"
+			],
+			[
+				"ex",
+				"expr_1\tstatement"
+			],
+			[
+				"s",
+				"Symbol"
+			],
+			[
+				"Pr",
+				"print\tfunction"
+			],
+			[
+				"li",
+				"list\tclass"
+			],
+			[
+				"k2",
+				"k2-k1"
+			],
+			[
+				"the",
+				"theta\tstatement"
+			],
+			[
+				"dra",
+				"draw_trajectory\tfunction"
+			],
+			[
+				"a",
+				"append\tfunction"
+			],
+			[
+				"int",
+				"intervals\tstatement"
+			],
+			[
+				"t",
+				"t_flight\tstatement"
+			],
+			[
+				"ge",
+				"generate_F_r\tfunction"
+			],
+			[
+				"python",
+				"python_version"
+			],
+			[
+				"bin",
+				"bind\tfunction"
+			],
+			[
+				"geth",
+				"gethostname\tfunction"
+			],
+			[
+				"post",
+				"posts"
+			],
+			[
+				"lin",
+				"linewith"
+			],
+			[
+				"sl",
+				"slope\tstatement"
+			],
+			[
+				"rand",
+				"randint\tfunction"
+			],
+			[
+				"d",
+				"diff"
+			],
+			[
+				"sym",
+				"sympy\tmodule"
+			],
+			[
+				"pre",
+				"prt_step\tparam"
+			],
+			[
+				"max",
+				"maxiter\tparam"
+			],
+			[
+				"fon",
+				"fontsize"
+			],
+			[
+				"de",
+				"derivative\tfunction"
+			],
+			[
+				"xva",
+				"xvals\tstatement"
+			],
+			[
+				"xv",
+				"xvals\tstatement"
+			],
+			[
+				"sq",
+				"sqrt\tfunction"
+			],
+			[
+				"sy",
+				"sympy\tmodule"
+			],
+			[
+				"fa",
+				"factorial\tfunction"
+			],
+			[
+				"mat",
+				"math\tmodule"
+			],
+			[
+				"p",
+				"print\tfunction"
+			],
+			[
+				"num",
+				"numTerms\tparam"
+			],
+			[
+				"sum",
+				"sums"
+			],
+			[
+				"su",
+				"subs"
+			],
+			[
+				"e",
+				"evalf"
+			],
+			[
+				"com",
+				"compile\tfunction"
+			],
+			[
+				"n",
+				"num"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Bzhan_Spider.py",
+			"settings":
+			{
+				"buffer_size": 4329,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Thtread_test.py",
+			"settings":
+			{
+				"buffer_size": 1593,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Anaconda Python Builder",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 203.0,
+		"last_filter": "Package Control: in",
+		"selected_items":
+		[
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"mp",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"bui",
+				"Build With: Markdown"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"mar",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/zcaoc/Desktop/Bzhan"
+	],
+	"file_history":
+	[
+		"/C/Users/zcaoc/Desktop/Bzhan/13.jpg",
+		"/C/Users/zcaoc/Desktop/Bzhan/bilibili-user-master/bilibili-user-master/get_face.py",
+		"/C/Users/zcaoc/Desktop/Bzhan/test.html",
+		"/C/Users/zcaoc/Desktop/Bzhan/bilibili-user-master/bilibili-user-master/bilibili_user.py",
+		"/S/ProgramData/Anaconda3/envs/tensorflow_GPU/lib/random.py",
+		"/C/Users/zcaoc/Documents/GitHub/MachineLearning-master/MachineLearning-master/docs/2.k-近邻算法.md",
+		"/C/Users/zcaoc/Desktop/Bzhan/APP_Spider-master/APP_Spider-master/app_spider.py",
+		"/S/ProgramData/Anaconda3/envs/tensorflow_GPU/lib/re.py",
+		"/S/ProgramData/Anaconda3/envs/tensorflow_GPU/lib/sre_compile.py",
+		"/S/ProgramData/Anaconda3/envs/tensorflow_GPU/lib/sre_parse.py",
+		"/C/Users/zcaoc/Desktop/Bzhan/my-first-Python-spider-master/url_manager.py",
+		"/S/ProgramData/Anaconda3/envs/tensorflow_GPU/lib/site-packages/pandas/core/reshape/concat.py",
+		"/S/ProgramData/Anaconda3/envs/tensorflow_GPU/lib/site-packages/pandas/core/reshape/api.py",
+		"/C/Users/zcaoc/Desktop/kaggle/1、Starting Your Project.py",
+		"/C/Users/zcaoc/AppData/Roaming/Sublime Text 3/Packages/SublimeTmpl/Default (Windows).sublime-keymap",
+		"/C/Users/zcaoc/AppData/Roaming/Sublime Text 3/Packages/SublimeTmpl/SublimeTmpl.sublime-settings",
+		"/C/Users/zcaoc/AppData/Roaming/Sublime Text 3/Packages/SublimeTmpl/templates/python.tmpl",
+		"/C/Users/zcaoc/Desktop/kaggle/Kaggle.sublime-project",
+		"/C/Users/zcaoc/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/zcaoc/AppData/Roaming/Sublime Text 3/Packages/SublimeTmpl/Default.sublime-commands",
+		"/S/3、Blog/source/_posts/VS2013-PCL1-8-0安装教程.md",
+		"/C/Users/zcaoc/Documents/小组/小组/软件/25、交接2018/3、刘洪志方案_2018_4_01#3-检测金球架/问题.md",
+		"/C/Users/zcaoc/AppData/Roaming/Sublime Text 3/Packages/SublimeTmpl/sublime-tmpl.py",
+		"/C/Users/zcaoc/Desktop/bezier_Py/main.py",
+		"/C/Users/zcaoc/Desktop/bezier_Py/OpenCV_Bezier.py",
+		"/S/ProgramData/Anaconda3/envs/tensorflow_GPU/lib/platform.py",
+		"/S/ProgramData/Anaconda3/envs/tensorflow_GPU/lib/site-packages/serial/__init__.py",
+		"/C/Users/zcaoc/Desktop/bezier_Py/Astar.py",
+		"/C/Users/zcaoc/Documents/study/13、电机拖动/实验二/实验二.py",
+		"/C/Users/zcaoc/Desktop/bezier_Py/Figure_1.png",
+		"/C/Users/zcaoc/Desktop/bezier_Py/Figure_gray.png",
+		"/C/Users/zcaoc/Desktop/bezier_Py/OpenCV_Test.py",
+		"/C/Users/zcaoc/Desktop/bezier_Py/Point.h",
+		"/C/Users/zcaoc/Desktop/bezier_Py/bezier_test.py",
+		"/C/Users/zcaoc/Desktop/bezier_Py/OpenCV_Bezier.sublime-project",
+		"/C/Users/zcaoc/Desktop/新建文件夹/lesson1/Code/Code_21/Code_21.py",
+		"/C/Users/zcaoc/Desktop/新建文件夹/lesson1/Code/Code_21/Localization_Program.py",
+		"/C/Users/zcaoc/Desktop/新建文件夹/lesson1/Code/Code_21/Code_32.py",
+		"/C/Users/zcaoc/Desktop/新建文件夹/lesson1/Code/Code_21/Code_25.py",
+		"/C/Users/zcaoc/Desktop/新建文件夹/lesson1/Code/Code_21/Code_26.py",
+		"/C/Users/zcaoc/Desktop/bezier_Py/demo.py",
+		"/S/ProgramData/Anaconda3/envs/tensorflow_GPU/lib/site-packages/numpy/__init__.py",
+		"/S/6、C51_Project/C51_Demo/单片机原理及应用-5120164354—张草林 第二次作业.md",
+		"/C/Users/zcaoc/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/C/Users/zcaoc/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/C/Users/zcaoc/Desktop/bezier_Py/test.jpg",
+		"/C/Users/zcaoc/Desktop/bezier_Py/output.avi",
+		"/C/Users/zcaoc/Desktop/bezier_test.py",
+		"/C/Users/zcaoc/Documents/study/15、TensorFlow_with_GPU_Code/scikit_learn/Code_12.py",
+		"/S/index",
+		"/C/Users/zcaoc/Documents/study/15、TensorFlow_with_GPU_Code/TensorFlow_with_GPU_Code_Learn.py",
+		"/S/OpenCv3/opencv/sources/doc/py_tutorials/py_core/py_image_arithmetics/py_image_arithmetics.markdown",
+		"/C/Users/zcaoc/Desktop/OpenCV-Beziers-master/pro/CMakeFiles/cmake.check_cache",
+		"/C/Users/zcaoc/Desktop/tensorflow/tensorflow/examples/tutorials/layers/cnn_mnist.py",
+		"/S/OpenCv3/opencv/sources/doc/tutorials/highgui/kinect_openni.markdown",
+		"/C/Users/zcaoc/Desktop/test.md",
+		"/S/3、Blog/source/about/index.md",
+		"/C/Users/zcaoc/Documents/study/11、python_wjf/domath_code_zcc/sympy_Learn.py",
+		"/C/Users/zcaoc/Documents/study/11、python_wjf/domath_code_zcc/电机与拖动/inductance.py",
+		"/S/Program Files (x86)/Python36-32/lib/site-packages/numpy/lib/polynomial.py",
+		"/C/Users/zcaoc/Documents/study/11、python_wjf/domath_code_zcc/电机与拖动/磁化曲线.py",
+		"/S/3、Blog/source/_posts/将搭建在阿里云虚拟主机的博客配置为HTTPS访问.md",
+		"/S/3、Blog/source/_posts/每天掌握一点Vs2013快捷键-持续更新.md",
+		"/S/3、Blog/tail.md",
+		"/S/3、Blog/source/categories/index.md",
+		"/S/3、Blog/scaffolds/draft.md",
+		"/S/3、Blog/scaffolds/page.md",
+		"/S/3、Blog/scaffolds/post.md",
+		"/S/3、Blog/source/tags/index.md",
+		"/C/Users/zcaoc/Documents/GitHub/OpenCvTutorials-cn/README.md",
+		"/S/Program Files (x86)/Python36-32/lib/site-packages/scipy/__init__.py",
+		"/S/Program Files (x86)/Python36-32/lib/site-packages/matplotlib/pyplot.py",
+		"/C/Users/zcaoc/Documents/study/11、python_wjf/domath_code_zcc/信号与系统/Discrete_Impulse_Step_Fun.py",
+		"/S/Program Files/Sublime Text 3/信号与系统/Discrete_Impulse_Step_Fun.py",
+		"/C/Users/zcaoc/Documents/study/11、python_wjf/domath_code_zcc/磁化曲线.py",
+		"/C/Users/zcaoc/Documents/GitHub/AltiumLibraries/README.md",
+		"/C/Users/zcaoc/Desktop/单片机原理及应用-5120164354—张草林.md",
+		"/C/Users/zcaoc/Desktop/C51.md",
+		"/C/Users/zcaoc/Documents/study/11、python_wjf/domath_code_zcc/inductance.py",
+		"/C/Users/zcaoc/Desktop/MATLAB电机仿真精华50例PDF/个人总结/磁路与变压器篇_1.md",
+		"/C/Users/zcaoc/Desktop/MATLAB电机仿真精华50例PDF/个人总结/磁路与变压器篇_1.html",
+		"/S/5、MATLAB_Code/1_Calculation_of_inductance_coefficient.m",
+		"/S/3、Blog/source/_posts/【OpenCv小白入门】人脸检测.md",
+		"/S/3、Blog/source/_posts/使用OpenCv和Cpp-将Gif文件分解并且转换为视频文件.md",
+		"/S/3、Blog/source/_posts/树莓派搭建Git-服务.md",
+		"/C/Users/zcaoc/Documents/study/11、python_wjf/doingmath_code/doingmath_code/chapter2/solutions/quad_function_plot.py",
+		"/C/Users/zcaoc/AppData/Roaming/Sublime Text 3/Packages/Sublimerge Pro/Default (Windows).sublime-keymap",
+		"/C/Users/zcaoc/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Default (Windows).sublime-keymap",
+		"/C/Users/zcaoc/AppData/Roaming/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/C/Users/zcaoc/Documents/study/11、python_wjf/domath_code_zcc/mygraph.png",
+		"/C/Users/zcaoc/Documents/study/14、Python_Socket/client.py",
+		"/C/Users/zcaoc/Documents/study/14、Python_Socket/server.py",
+		"/S/Program Files (x86)/Python36-32/lib/socket.py",
+		"/C/Users/zcaoc/AppData/Local/Temp/Rar$DIa1508.48208/mult_table_exit_power.py",
+		"/C/Users/zcaoc/AppData/Local/Temp/Rar$DIa3280.35795/README.md",
+		"/S/3、Blog/source/_posts/复变函数与积分变换知识点总结【1】.md",
+		"/C/Users/zcaoc/Documents/GitHub/GiF_To_Video/README.md",
+		"/S/3、Blog/source/_posts/这个可能是最完整的学习列表！！！！.md",
+		"/C/Users/zcaoc/Documents/小组/小组/软件/25、交接2018/3、刘洪志方案_进度详见内部README文件/ReadMe.md",
+		"/S/OpenCv3/opencv/sources/doc/tutorials/core/how_to_scan_images/how_to_scan_images.markdown",
+		"/S/3、Blog/themes/icarus/layout/common/footer.ejs",
+		"/C/Users/zcaoc/Desktop/test.cpp",
+		"/S/3、Blog/source/_posts/迁移自己搭建在虚拟主机上的hexo-博客.md",
+		"/S/3、Blog/themes/icarus/layout/comment/gitment.ejs",
+		"/C/Users/zcaoc/Desktop/gitment.browser.js",
+		"/C/Users/zcaoc/Documents/小组/小组/软件/0、STM32F10x_StdPeriph_Lib_V3.5.0/Project/STM32F10x_StdPeriph_Examples/SPI/SPI_FLASH/main.c",
+		"/C/Users/zcaoc/Documents/test/README.md",
+		"/C/Users/zcaoc/Documents/小组/小组/软件/3、遥控器_加入无线/User/App/NRF24L01/NRF24L01.c",
+		"/S/3、Blog/themes/icarus/_config.yml",
+		"/S/3、Blog/_config.yml",
+		"/S/3、Blog/themes/icarus/layout/comment/counter.ejs",
+		"/S/3、Blog/themes/icarus/layout/common/post/category.ejs",
+		"/C/Users/zcaoc/Desktop/project-based-learning-master/project-based-learning-master/README.md",
+		"/C/Users/zcaoc/Documents/GitHub/OpenCvTutorialsChinese-translation/README.md",
+		"/C/Users/zcaoc/Desktop/motion-detection-master/motion-detection-master/selectregion_src/src/tinystr.cpp",
+		"/S/3、Blog/source/_posts/【OpenCvTutorials3-1中文翻译】-如何使用OpenCV扫描图像，查找表和时间测量.md",
+		"/C/Users/zcaoc/Documents/study/11、python_wjf/第一部分、单元微积分/11EulerMethod.py",
+		"/C/Users/zcaoc/Documents/study/11、python_wjf/第一部分、单元微积分/09Optimization.py",
+		"/C/Users/zcaoc/Documents/study/11、python_wjf/第一部分、单元微积分/08NewtonIterMethod.py",
+		"/C/Users/zcaoc/Documents/study/11、python_wjf/第一部分、单元微积分/07Derivative.py",
+		"/S/3、Blog/public/css/style.css",
+		"/S/3、Blog/themes/icarus/layout/widget/archive.ejs",
+		"/S/3、Blog/node_modules/hexo/node_modules/hexo-cli/assets/themes/landscape/layout/_widget/recent_posts.ejs",
+		"/S/3、Blog/node_modules/core-js/client/core.js",
+		"/S/3、Blog/node_modules/cheerio/lib/api/manipulation.js",
+		"/S/3、Blog/node_modules/hexo/node_modules/hexo-cli/assets/themes/landscape/layout/_partial/sidebar.ejs",
+		"/S/3、Blog/node_modules/hexo/node_modules/hexo-cli/assets/themes/landscape/layout/_widget/archive.ejs",
+		"/C/Users/zcaoc/Documents/study/11、python_wjf/第一部分、单元微积分/06BigO.py"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"proxies",
+			"uafile",
+			"\t\t\n",
+			"pic",
+			"    \t\n",
+			"pic",
+			"background",
+			"quot",
+			"&quot",
+			"hdslb",
+			"        \n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Bzhan_Spider.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4329,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2700,
+								2700
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"default_extension": "py",
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1228.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Thtread_test.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1593,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1240,
+								1250
+							]
+						],
+						"settings":
+						{
+							"default_extension": "py",
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 486.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 183.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.markdown":
+	{
+		"height": 99.0
+	},
+	"pinned_build_system": "",
+	"project": "Bzhan_Spider.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"server.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Sympy_Learn"
+			]
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 238.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
