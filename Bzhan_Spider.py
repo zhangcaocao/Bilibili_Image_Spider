@@ -22,9 +22,9 @@ Image_url_num = 1
 name = 0
 exitFlag = 0
 get_source_flag = 0
-
+page_num = 0
 workQueue = queue.Queue(10)
-
+page_all_num = 100   # 所需要爬取的页数。
 
 def Help():
     print('python_version: '.format(platform.python_version()))
@@ -32,8 +32,8 @@ def Help():
 
 def LoadUserAgents(uafile):
     """
-	uafile : string path to text file of user agents, one per line
-	"""
+    uafile : string path to text file of user agents, one per line
+    """
     UAs = []
     with open(uafile, 'rb') as uaf:
         for ua in uaf.readlines():
@@ -48,8 +48,10 @@ queueLock = threading.Lock()
 
 
 def get_source(ua_list, page_nums):
-    page_all_num = page_nums
-    for page_num in range(page_all_num):
+    print("page_num: {0}".format(page_num))
+    global page_num
+    if page_num < page_nums:
+
         time.sleep(2)
         User_Agent = random.choice(ua_list)
         headers = {
@@ -81,24 +83,29 @@ def get_source(ua_list, page_nums):
             if items:
                 for i in range(len(items)):
                     if items[i] not in Img_Url:
-                        print("Image_Link: {0}".format(items[i]))
+                        # print("Image_Link: {0}".format(items[i]))
                         Img_Url.append(items[i])
             Image_url_num = len(Img_Url)
             get_source_flag = 1
+
         else:
             print("Error: {0}".format(start_html.raise_for_status))
             get_source_flag = 0
+        page_num += 1
+
+    # return get_source_flag
 
 
 def Save_Image(Image_url):
     global name  # UnboundLocalError: local variable 'name' referenced before assignment
     while Image_url:
         name = name + 1
-        with open('./img/'+ str(name) + '.jpg', 'wb') as fd:
+        with open('./image/' + str(name) + '.jpg', 'wb') as fd:
             img = requests.get(Image_url.pop()).content
             time.sleep(random.choice(range(1, 3)) / 10)
             fd.write(img)
             fd.close()
+    # return 0
 
 
 class myThread(threading.Thread):
@@ -109,16 +116,17 @@ class myThread(threading.Thread):
         self.name = name
 
     def run(self):
-        print(type(self.name))
+        # print(type(self.name))
         if self.name == 'get_source':
-
-            print("open processing" + self.name)
+            
+            # print("open processing:" + self.name)
             get_source_thread(self.name)
-            print(u"退出线程：" + self.name)
+            # print("close processing:" + self.name)
         else:
-            print(u"开启线程：" + self.name)
+            queueLock.acquire()
+            # print("open processing:" + self.name)
             Save_Image_thread(self.name)
-            print("退出线程：" + self.name)
+            # print("close processing:" + self.name)
 
 
 def get_source_thread(threadName=get_source):
@@ -126,10 +134,11 @@ def get_source_thread(threadName=get_source):
     :description: get_source_thread
     :param threadName:
     """
+    global page_all_num
     queueLock.acquire()
     if Image_url_num:
-        get_source(ua_list=ua_list, page_nums=4)
-        print("len(Img_Url){0}".format(len(Img_Url)))
+        get_source(ua_list=ua_list, page_nums=page_all_num)
+        # print("len(Img_Url){0}".format(len(Img_Url)))
         queueLock.release()
         print("%s processing" % (threadName))
     else:
@@ -141,7 +150,6 @@ def Save_Image_thread(threadName=Save_Image):
     :description: get_source_thread
     :param threadName:
     """
-    queueLock.acquire()
     if Image_url_num:
         Save_Image(Img_Url)
         print("Save_Image...")
@@ -152,15 +160,24 @@ def Save_Image_thread(threadName=Save_Image):
 
 
 if __name__ == '__main__':
-    # workQueue = queue.Queue(10)
-    # get_source(ua_list = ua_list, page_nums = 10)
-    # print(len(Img_Url))
-    # Save_Image(Img_Url)
-    thread1 = myThread(1, "get_source")
-    thread2 = myThread(2, "Save_Image")
-    thread1.start()
-    thread2.start()
-    thread1.join()
-    thread2.join()
+	
+    global page_all_num
+    threadnames = ['get_source', 'Save_Image']
+    thread_list = []
+    thread_num = 1
 
+    thread = myThread(0, 'get_source')
+    thread.start()
+    thread.join()
+    while Img_Url or page_num < page_all_num:
+        for threadname in threadnames:
+            print(threadname)
+            thread = myThread(thread_num, str(threadname))
+            thread.start()
+            thread_list.append(thread)
+            thread_num += 1
 
+        for t in thread_list:
+            t.join()
+    print("All Thread Number:{0}".format(thread_num))
+    print("close the main processing")
