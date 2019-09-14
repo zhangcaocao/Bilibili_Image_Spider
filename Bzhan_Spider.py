@@ -6,16 +6,17 @@
 @Link    : http://little-rocket.cn/
 """
 
-import numpy as np
-import matplotlib.pyplot as plt
-import sympy
 import platform
-import requests
-import re
-import time
-import random
 import queue
+import random
+import re
 import threading
+import time
+
+import matplotlib.pyplot as plt
+import numpy as np
+import requests
+import sympy
 
 Img_Url = []
 Image_url_num = 1
@@ -48,8 +49,9 @@ queueLock = threading.Lock()
 
 
 def get_source(ua_list, page_nums):
-    print("page_num: {0}".format(page_num))
     global page_num
+    print("page_num: {0}".format(page_num))
+    
     if page_num < page_nums:
 
         time.sleep(2)
@@ -161,7 +163,7 @@ def Save_Image_thread(threadName=Save_Image):
 
 if __name__ == '__main__':
 	
-    global page_all_num
+    # global page_all_num
     threadnames = ['get_source', 'Save_Image']
     thread_list = []
     thread_num = 1
