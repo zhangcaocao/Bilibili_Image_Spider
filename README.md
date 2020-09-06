@@ -13,7 +13,7 @@ User-Agent 的集合。
 
 ### GIF_.gif:
 
-![程序演示](http://image.little-rocket.cn/GIF_.gif) 
+![程序演示](/GIF_.gif) 
 
 
 ### kill_Image.bat
